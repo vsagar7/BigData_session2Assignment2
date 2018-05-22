@@ -1,2 +1,4 @@
 # BigData_session2Assignment2
 BigData_Hadoop_Assignment2_Inroduction_to_HDFS
+Explainations provided,screenshots attached accordingly
+Note : Commands are highlighted in PDF
